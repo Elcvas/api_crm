@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Sebastian Contreras",
+      "empresa": "Una empresa",
+      "email": "correo@correo.com",
+      "telefono": "312312312312",
+      "notas": "Cliente recomendado por otro",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Empresa de Karen",
+      "email": "correo@correo.com",
+      "telefono": "12312313131",
+      "notas": "Una nota de Karen",
+      "id": 2
+    }
+  ]
+}
